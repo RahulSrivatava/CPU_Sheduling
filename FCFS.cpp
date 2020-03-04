@@ -42,8 +42,7 @@ int main()
    for(int i=0;i<n;i++)
    {
        cin>>p[i];
-       //p.push_back(v);
-   }
+       //p.push_back(v); }
    wt(n,p,w_t);
    tat(n,p,w_t,ta_t);
    cout<<"Process  "<<"Burst Time  "<<"Waiting Time " <<"Turn Around Time\n";
