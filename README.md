@@ -1,4 +1,4 @@
-# OS_Sheduling
+# CPU_Sheduling
 
 CPU Scheduling   Programs 
 
