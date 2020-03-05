@@ -36,9 +36,9 @@ int main()
     int p[n];
     //int v;
 
-   cout<<"Enter no of Process\n";
+  // cout<<"Enter no of Process\n";
    cin>>n;
-   cout<<"Enter the Burst Time \n";
+   //cout<<"Enter the Burst Time \n";
    for(int i=0;i<n;i++)
    {
        cin>>p[i];
