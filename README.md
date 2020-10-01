@@ -1,6 +1,6 @@
 # CPU_Sheduling
 
-CPU Scheduling   Programs 
+CPU Scheduling Program
 
 
 
