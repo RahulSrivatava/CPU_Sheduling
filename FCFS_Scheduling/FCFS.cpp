@@ -1,3 +1,4 @@
+#include<bits/stdc++.h> 
 #include<iostream>
 #include<vector>
 using namespace std ;
@@ -54,6 +55,7 @@ int main()
        cout<<"  "<<i+1<<"\t\t"<<p[i]<<"\t   " <<w_t[i]<<"\t\t"<<ta_t[i]<<endl;
        /* code */
    }
+    /* This will print the average Waiting Time and Average Turn around Time*/
    cout<<"Average Waiting Time = "<<(float)t_wt/(float)n<<endl;
    cout<<"Average Turn Around Time = "<<(float)t_tat/(float)n; 
    
